@@ -1,2 +1,2 @@
 # caos
-Compute Architecture and Operating Systems Class
+Computer Architecture and Operating Systems Class
