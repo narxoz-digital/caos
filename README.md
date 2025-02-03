@@ -1,6 +1,6 @@
 # KAOS 2219 - Computer Architecture and Operating Systems
 
-# Syllabus
+### Syllabus
 
 | Week   | Topics                                           |
 |--------|--------------------------------------------------|
