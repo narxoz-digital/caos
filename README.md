@@ -8,5 +8,5 @@
 | Week02 | A Tour of Computer Systems                       |
 | Week03 | Representing and Manipulating Information        |
 | Week04 | Machine-Level Representation of Programs         |
-| Week05 | A Tour of Computer Systems                       |
+| Week05 | Chicken chicken chicken                          |
 | ...    | ... |
