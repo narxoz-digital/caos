@@ -55,9 +55,10 @@ int main(int argc, char* argv[]){
 	  if (p!=NULL) {
 	    p[0]='\0';
 	    labels[k] = trim(st[n]);
-	    addr[k++]=n;
+	    addr[k]=n;
 	    st[n] = trim(p+1);
-	    printf("%s|%s\n",labels[n], st[n]);
+	    printf("%s|%s\n",labels[k], st[n]);
+	    k++;
 	  }
 	  else{
 	    st[n] = trim(st[n]);
